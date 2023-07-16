@@ -17,7 +17,8 @@ Alter 13-17 // Cola
 /* Getränke-Challenge */
 
 let firstName = prompt("Bitte deinen Name eingeben!");
-let age = parseInt(prompt("Bitte dein Alter eingeben!"));
+// let age = parseInt(prompt("Bitte dein Alter eingeben!"));
+let age = +prompt("Bitte dein Alter eingeben!");
 
 /*********** Variante 1  ****************/
 
